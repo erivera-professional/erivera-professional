@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Erick Rivera (@erivera-professional) and this is my professional account.
+- ⏱️ Most of the time I work on private repositories so only anonymized contribution data is publicly available.
+- 👀 I’m interested in Blockchain, Machine Learning, Data Science, Art and Environment
+- 🌱 I’m currently learning WASM, Ethereum Virtual Machine Assambly, cryptography standards and distribution algorithms.
+- 🧑‍💻 I'm currently working with solidity, hardhat, nodejs, reactjs, nextjs.
+- 🧰 Other technologies used in the past: C/C++, Android(Java), iOS(swift), Embedded Systems (C/Assambly), Matlab/Octave, VHDL, spice
+- 📫 You can reach me at LinkedIn: https://www.linkedin.com/in/erick-rivera/
